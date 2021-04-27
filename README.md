@@ -4,6 +4,9 @@ Welcome to Pyxiety
 
 Made by John F. Kennedy School's 2021 Year 12 class of Computer Science
 
+## How to run
+To start Pyxiety, run the main.py file
+
 ## Video
 https://youtu.be/-dD6oqc40oI
 
