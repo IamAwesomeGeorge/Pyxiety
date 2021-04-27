@@ -14,8 +14,8 @@ https://youtu.be/-dD6oqc40oI
 Part | Person
 ------------ | -------------
 Circuit | Caelan Woodstock
-Coding | George Keen
-Write up | Gordon Saad and Ryan Tam Lit-Taylor
+Coding and Video | George Keen
+Write up and Speaker | Gordon Saad and Ryan Tam Lit-Taylor
 Paint and Snake | Oskar Maslanka and Theo Tyszkiewicz
 Blackjack | Ryan Tam Lit-Taylor
 Number Guesser | George Keen
