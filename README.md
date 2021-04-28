@@ -11,7 +11,7 @@ To start Pyxiety, run the main.py file
 https://youtu.be/-dD6oqc40oI
 
 ## Instructions
-[Instructions](https://github.com/IamAwesomeGeorge/Pyxiety/blob/main/raspberry%20pi%20instuctions%20.docx)
+[Instructions](https://github.com/IamAwesomeGeorge/Pyxiety/blob/main/raspberry%20pi%20instuctions.docx)
 
 ## Credits
 Part | Person
